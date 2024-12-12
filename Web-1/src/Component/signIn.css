@@ -1,0 +1,67 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+}
+.left{
+    width: 49vw;
+    display: flex;
+    padding-left: 170px;
+}
+.right{
+    width: 50vw;
+    display: flex;
+}
+.for{
+    width: 20vw;
+    height: 58vh;
+    background-color: bisque;
+    border-radius: 44px;
+    padding: 44px 26px;
+    padding-left: 60px;
+    margin: 60px;
+    margin-left: 192px;
+}
+.if{
+    padding-top: 20px;
+}
+#Email,#Password{
+    padding: 15px;
+    width: 232px;
+    margin: 8px 0px;
+    border-radius: 11px;
+}
+#log{
+    background-color: white;
+    color: #3E2723;
+    padding: 13px 100px;
+    border-radius: 12px;
+}
+#go{
+    background-color: white;
+    color: rgb(25, 147, 188);
+    border-color: rgb(28, 146, 185);
+    padding: 14px 32px;
+    border-radius: 12px;
+}
+#face{
+    background-color: white;
+    color: rgb(28, 160, 204);
+    border-color: rgb(25, 152, 194);
+    padding: 14px 25px; 
+    border-radius: 12px;
+}
+img{
+    width: 42vw;
+    height: 94vh;
+    padding-right: px;
+}
+a:link{
+    text-decoration: none;
+    color: white;
+}
